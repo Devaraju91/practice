@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
     int n, i;
     unsigned long long factorial = 1;
@@ -16,5 +16,5 @@ int main()
         }
         printf("Factorial of %d = %llu", n, factorial);
     }
-    return 0;
+    //return 0;
 }
