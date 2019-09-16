@@ -1,6 +1,7 @@
 #include<stdio.h>  
- void main()    
-{    
+ void addnum()
+ {
+  
 int n,sum=0,m;    
 printf("Enter a number:");    
 scanf("%d",&n);    
