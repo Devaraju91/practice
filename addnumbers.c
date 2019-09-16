@@ -3,7 +3,7 @@
  {
   
 int n,sum=0,m;    
-printf("Enter a number:");    
+printf("\n\nEnter a number to add:");    
 scanf("%d",&n);    
 while(n>0)    
 {    
