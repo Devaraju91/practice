@@ -1,5 +1,5 @@
 #include<stdio.h>  
- int main()    
+ void main()    
 {    
 int n,sum=0,m;    
 printf("Enter a number:");    
@@ -11,5 +11,5 @@ sum=sum+m;
 n=n/10;    
 }    
 printf("Sum is=%d",sum);    
-return 0;  
+//return 0;  
 }  
