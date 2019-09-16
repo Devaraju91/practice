@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+void pali()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
     printf("Enter an integer: ");
